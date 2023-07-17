@@ -6,6 +6,7 @@ using namespace std;
 class DirectoryEntry
 {
     public:
+        DirectoryEntry();
 		DirectoryEntry(char* buffer);
 
         int attr;
