@@ -1,0 +1,3 @@
+/Users/gimseongbin/Desktop/24-Winter/FAT32/CMakeFiles/main.dir
+/Users/gimseongbin/Desktop/24-Winter/FAT32/CMakeFiles/edit_cache.dir
+/Users/gimseongbin/Desktop/24-Winter/FAT32/CMakeFiles/rebuild_cache.dir

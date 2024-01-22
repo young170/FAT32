@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/gimseongbin/Desktop/24-Winter/FAT32",
+  "command": "g++  -I/usr/local/include -I/opt/homebrew/include -I/Users/gimseongbin/Desktop/24-Winter/FAT32 -std=gnu++2b -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/main.dir/main.cpp.o -c /Users/gimseongbin/Desktop/24-Winter/FAT32/main.cpp",
+  "file": "/Users/gimseongbin/Desktop/24-Winter/FAT32/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/gimseongbin/Desktop/24-Winter/FAT32",
+  "command": "g++  -I/usr/local/include -I/opt/homebrew/include -I/Users/gimseongbin/Desktop/24-Winter/FAT32 -std=gnu++2b -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.6 -o CMakeFiles/main.dir/byte_buffer.cpp.o -c /Users/gimseongbin/Desktop/24-Winter/FAT32/byte_buffer.cpp",
+  "file": "/Users/gimseongbin/Desktop/24-Winter/FAT32/byte_buffer.cpp",
+  "output": "CMakeFiles/main.dir/byte_buffer.cpp.o"
+}
+]
